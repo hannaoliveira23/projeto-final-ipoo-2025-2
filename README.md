@@ -20,13 +20,13 @@ Como a estrutura de pastas original do Greenfoot foi modificada para fins de org
 ### Passo a passo
 1.  **Clone o repositório.**
 2.  **Restaure a estrutura do Greenfoot:**
-    O Greenfoot espera encontrar as classes, arquivos de configuração do projeto e as pastas `images/` e sounds/` todos compartilhando a mesma pasta raiz.
+    O Greenfoot espera encontrar as classes, arquivos de configuração do projeto e as pastas `images/` e `sounds/` todos compartilhando a mesma pasta raiz.
     * Entre na pasta `codigos/`.
     * Mova todos os arquivos contidos nela (`.java`, `.class`, `.ctxt`) diretamente para a pasta raiz do repositório (o mesmo nível onde ficam as pastas `images/`, `sounds/` e o arquivo `.greenfoot`).
-3.  **Abra o projeto:**
+4.  **Abra o projeto:**
     * Abra o Greenfoot.
     * Vá em **Project -> Open...** e selecione a pasta raiz do projeto.
-4.  **Compile e jogue:**
+5.  **Compile e jogue:**
     * Clique no botão **Compile** no canto inferior direito do Greenfoot.
     * Clique em **Run** para iniciar o jogo!
 
