@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=JackLanterna
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Representa\ o\ chef\u00E3o,\ que\ possui\ um\ comportamento\ similar\ ao\ da\ Aranha\ e\ ataca\ a\ Guardia\ de\ longe.\r\n
+comment1.params=posYMin\ posYMax
+comment1.target=JackLanterna(int,\ int)
+comment1.text=\r\n\ Construtor\ do\ JackLanterna.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Cuida\ da\ l\u00F3gica\ de\ a\u00E7\u00E3o\ do\ JackLanterna.\r\n
+comment3.params=
+comment3.target=void\ mover()
+comment3.text=\r\n\ Cuida\ da\ movimenta\u00E7\u00E3o\ do\ chef\u00E3o.\r\n
+comment4.params=
+comment4.target=void\ atirarAleatoriamente()
+comment4.text=\r\n\ Checa,\ com\ uma\ chance\ aleat\u00F3ria,\ se\ o\ Jack\ deve\ atirar,\ e\ realiza\ a\ a\u00E7\u00E3o.\r\n
+comment5.params=
+comment5.target=void\ atacarGuardia()
+comment5.text=\r\n\ Sobrescreve\ atacarGuardia\ do\ Inimigo\ para\ N\u00C3O\ dar\ dano\ por\ contato\ f\u00EDsico,\ e\ sim\ pelo\ tiro.\r\n
+numComments=6

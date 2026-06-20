@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Inimigo
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ \u00E9\ a\ superclasse\ para\ todos\ os\ inimigos\ (zumbis).\ Define\ a\ regra\ de\ ataque,\r\n\ l\u00F3gica\ de\ dano\ ao\ jogador\ e\ defini\u00E7\u00E3o\ do\ ciclo\ de\ vida\ comum.\r\n
+comment1.params=
+comment1.target=Inimigo()
+comment1.text=\r\n\ Construtor\ do\ Inimigo.\ Configura\ a\ vida\ padr\u00E3o\ e\ anima\u00E7\u00F5es\ (n\u00E3o\ implementadas\ aqui).\r\n
+comment2.params=
+comment2.target=int\ getDanoBase()
+comment3.params=
+comment3.target=void\ tocarSomAtaque()
+comment3.text=\r\n\ Define\ o\ som\ do\ ataque.\ Pode\ ser\ sobrescrito\ pelas\ subclasses.\r\n
+comment4.params=
+comment4.target=Guardia\ localizarGuardia()
+comment4.text=\r\n\ Tenta\ encontrar\ a\ guardi\u00E3\ no\ mundo.\r\n\ @return\ O\ objeto\ Guardia\ ou\ null\ se\ nao\ estiver\ presente.\r\n
+comment5.params=
+comment5.target=void\ atacarGuardia()
+comment5.text=\r\n\ Gerencia\ a\ l\u00F3gica\ de\ ataque\ com\ um\ per\u00EDodo\ de\ recarga\ (cooldown).\r\n
+comment6.params=
+comment6.target=void\ mover()
+comment6.text=\r\n\ Comportamento\ de\ movimento\ padr\u00E3o.\ Deve\ ser\ sobrescrito\ pelas\ subclasses,\ uma\ vez\ que\ cada\ inimigo\ tem\ um\ movimento\ diferente.\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ O\ ciclo\ de\ vida\ do\ Inimigo.\ Garante\ que\ ataque,\ movimento\ e\ anima\u00E7\u00E3o\ ocorram,\ nessa\ ordem.\r\n
+comment8.params=alvo
+comment8.target=double\ calcularDistanciaAte(greenfoot.Actor)
+comment8.text=\r\n\ Calcula\ a\ dist\u00E2ncia\ Euclidiana\ entre\ um\ inimigo\ e\ um\ alvo\ (o\ qual\ pode\ ser\ o\ jogador,\ um\ objeto\ colet\u00E1vel,\ etc.).\r\n\ @param\ alvo\ O\ ator\ at\u00E9\ o\ qual\ a\ dist\u00E2ncia\ deve\ ser\ calculada.\r\n\ @return\ \ \ \ \ A\ dist\u00E2ncia\ em\ pixels.\r\n
+numComments=9

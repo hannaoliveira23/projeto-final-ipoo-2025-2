@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Chave
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ representa\ um\ item\ colecion\u00E1vel\ que,\ ao\ ser\ coletado,\ faz\ o\ jogador\ passar\ de\ fase.\r\n
+comment1.params=
+comment1.target=Chave()
+comment1.text=\r\n\ Construtor\ de\ objetos\ Estrela.\r\n
+comment2.params=
+comment2.target=java.lang.String\ obterNomeSomColeta()
+comment2.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ da\ classe\ ItemColecionavel.\ Define\ o\ som\ espec\u00EDfico\ da\ coleta\ da\ chave.\r\n
+numComments=3

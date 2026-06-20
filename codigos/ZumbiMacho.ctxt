@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ZumbiMacho
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Representa\ um\ inimigo\ com\ comportamento\ de\ persegui\u00E7\u00E3o\ \u00E0\ Guardia\ dentro\ de\ um\ raio\ de\ percep\u00E7\u00E3o\ definido\ pelo\ usu\u00E1rio.\r\n
+comment1.params=
+comment1.target=ZumbiMacho()
+comment1.text=\r\n\ Construtor\ 1,\ usado\ na\ Fase\ 2.\r\n\ Define\ o\ raio\ para\ persegui\u00E7\u00E3o\ como\ 300\ -\ o\ zumbi\ s\u00F3\ persegue\ se\ a\ Guardia\ estiver\ dentro\ desse\ raio.\r\n
+comment2.params=raioDesejado
+comment2.target=ZumbiMacho(int)
+comment2.text=\r\n\ Construtor\ 2,\ usado\ na\ Fase\ 1.\r\n\ Permite\ definir\ o\ raio\ de\ percep\u00E7\u00E3o\ ao\ criar\ o\ zumbi.\ Se\ passarmos\ um\ valor\ gigante,\ ser\u00E1\ uma\ persegui\u00E7\u00E3o\ "infinita".\r\n
+comment3.params=
+comment3.target=void\ mover()
+comment3.text=\r\n\ Sobrescreve\ o\ mover()\ da\ classe\ Inimigo.\ Implementa\ a\ movimenta\u00E7\u00E3o\ do\ ZumbiMacho.\r\n
+comment4.params=alvo
+comment4.target=void\ moverEmDirecaoAoAlvo(Guardia)
+comment4.text=\r\n\ Sistema\ de\ persegui\u00E7\u00E3o.\ Tenta\ mover\ em\ X\ e\ Y;\ se\ colidir,\ tenta\ eixo\ X,\ depois\ eixo\ Y.\r\n
+numComments=5

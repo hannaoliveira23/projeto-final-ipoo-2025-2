@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Tela
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ \u00E9\ uma\ superclasse\ que\ cuida\ da\ l\u00F3gica\ gen\u00E9rica\ de\ cria\u00E7\u00E3o\ de\ um\ mundo\ Tela.\r\n
+comment1.params=nomeImagemDeFundo
+comment1.target=Tela(java.lang.String)
+comment1.text=\r\n\ Construtor\ de\ Tela.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ act().\ Deve\ ser\ sobrescrita\ pelas\ subclasses.\r\n
+numComments=3

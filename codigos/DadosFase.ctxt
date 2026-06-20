@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DadosFase
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ armazena\ o\ resultado\ (pontua\u00E7\u00E3o\ e\ tempo)\ de\ uma\ \u00FAnica\ fase.\r\n
+comment1.params=nomeFase\ pontos\ tempo
+comment1.target=DadosFase(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Construtor\ que\ recebe\ o\ nome,\ os\ pontos\ e\ o\ tempo\ da\ fase.\r\n
+numComments=2

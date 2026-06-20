@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BolaDeFogo
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ representa\ o\ tiro\ da\ bola\ de\ fogo,\ realizado\ pelo\ chef\u00E3o\ na\ \u00FAltima\ fase\ do\ jogo.\r\n
+comment1.params=
+comment1.target=BolaDeFogo()
+comment1.text=\r\n\ Construtor\ de\ objetos\ BolaDeFogo.\r\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ de\ Projetil,\ implementando\ a\ movimenta\u00E7\u00E3o.\r\n
+comment3.params=
+comment3.target=void\ verificarColisao()
+comment3.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ de\ Projetil,\ implementando\ a\ verifica\u00E7\u00E3o\ de\ colis\u00E3o\ com\ a\ guardi\u00E3.\r\n
+numComments=4

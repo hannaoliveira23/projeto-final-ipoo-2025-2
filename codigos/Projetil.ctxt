@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Projetil
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ \u00E9\ uma\ superclasse\ para\ todos\ os\ proj\u00E9teis\ disparados\ no\ jogo\ (pelo\ jogador\ ou\ inimigo).\r\n\ Centraliza\ o\ ciclo\ de\ vida\:\ movimento,\ remo\u00E7\u00E3o\ na\ borda\ e\ colis\u00E3o.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ A\u00E7\u00E3o\ do\ proj\u00E9til\:\ movimenta\u00E7\u00E3o,\ remo\u00E7\u00E3o\ na\ borda,\ colis\u00E3o.\r\n
+comment2.params=
+comment2.target=boolean\ checarColisaoBarreira()
+comment2.text=\r\n\ Implementa\ a\ checagem\ de\ colis\u00E3o\ com\ Barreira\ e\ remove\ o\ proj\u00E9til.\r\n\ @return\ true\ se\ colidiu\ com\ uma\ Barreira\ e\ foi\ removido,\ false\ caso\ contr\u00E1rio.\r\n
+comment3.params=
+comment3.target=boolean\ checarRemocao()
+comment3.text=\r\n\ Implementa\u00E7\u00E3o\ da\ remo\u00E7\u00E3o\ na\ borda.\r\n\ @return\ true\ se\ o\ objeto\ foi\ removido,\ false\ ao\ contr\u00E1rio.\r\n
+comment4.params=
+comment4.target=void\ emRemocaoNaBorda()
+comment4.text=\r\n\ O\ que\ acontece\ se\ um\ proj\u00E9til\ atinge\ a\ borda.\ Pode\ ser\ sobrescrito\ caso\ haja\ um\ comportamento\ espec\u00EDfico.\r\n
+comment5.params=
+comment5.target=void\ mover()
+comment5.text=\r\n\ Implementa\ a\ movimenta\u00E7\u00E3o\ do\ proj\u00E9til.\ Deve\ ser\ sobrescrito.\r\n
+comment6.params=
+comment6.target=void\ verificarColisao()
+comment6.text=\r\n\ Implementa\ a\ verifica\u00E7\u00E3o\ de\ colis\u00E3o.\ Deve\ ser\ sobrescrito.\r\n
+numComments=7

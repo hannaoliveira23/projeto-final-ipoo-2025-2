@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fase1
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Representa\ a\ primeira\ fase\ do\ jogo.\r\n
+comment1.params=
+comment1.target=Fase1()
+comment1.text=\r\n\ Construtor\ da\ Fase1.\r\n
+comment2.params=
+comment2.target=void\ configurarSpawnPoints()
+comment2.text=\r\n\ Sobrescrita\ de\ MundoJogo.\ Configura\ os\ pontos\ para\ spawn\ dos\ fragmentos.\r\n
+comment3.params=
+comment3.target=void\ criarGuardia()
+comment3.text=\r\n\ Sobrescrita\ de\ MundoJogo.\ Prepara\ a\ guardi\u00E3.\r\n
+comment4.params=
+comment4.target=void\ criarInimigos()
+comment4.text=\r\n\ Sobrescrita\ de\ MundoJogo.\ Prepara\ os\ inimigos\ da\ fase.\r\n
+comment5.params=
+comment5.target=int[]\ getPosicaoSpawnChave()
+comment5.text=\r\n\ Sobrescrita\ de\ MundoJogo.\r\n\ @return\ Posi\u00E7\u00F5es\ para\ o\ spawn\ da\ chave.\r\n
+comment6.params=
+comment6.target=void\ prepararCenario()
+comment6.text=\r\n\ Sobrescrita\ de\ MundoJogo.\ Prepara\ o\ cen\u00E1rio\ do\ jogo.\r\n
+comment7.params=
+comment7.target=greenfoot.World\ proximaFase()
+comment7.text=\r\n\ Sobrescrita\ de\ MundoJogo.\r\n\ @return\ Pr\u00F3xima\ fase.\r\n
+numComments=8

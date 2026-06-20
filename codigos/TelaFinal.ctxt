@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TelaFinal
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ \u00C9\ o\ mundo\ que\ exibe\ o\ resultado\ final\ do\ jogo\ (vit\u00F3ria\ ou\ derrota).\r\n
+comment1.params=pontuacaoTotal\ resultadoVitoria
+comment1.target=TelaFinal(int,\ boolean)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ TelaFinal.\r\n\ @param\ pontuacaoTotal\ \ \ \ A\ pontua\u00E7\u00E3o\ final\ do\ jogador.\r\n\ @param\ resultadoVitoria\ \ Indica\ se\ o\ jogador\ venceu\ (true)\ ou\ perdeu\ (false).\r\n
+comment2.params=
+comment2.target=void\ tocarSomResultado()
+comment2.text=\r\n\ Toca\ o\ som\ de\ vit\u00F3ria\ ou\ derrota\ baseado\ no\ resultado.\r\n
+comment3.params=
+comment3.target=void\ prepararFundo()
+comment3.text=\r\n\ Prepara\ a\ cor\ de\ fundo\ com\ base\ no\ resultado\ do\ jogo\ (verde\ em\ vit\u00F3ria,\ vermelho\ em\ derrota).\r\n
+comment4.params=
+comment4.target=void\ exibirMensagem()
+comment4.text=\r\n\ Desenha\ o\ t\u00EDtulo,\ a\ pontua\u00E7\u00E3o\ total,\ o\ tempo\ total,\ a\ tabela\ de\ resultados\ por\ fase\ e\ a\ instru\u00E7\u00E3o\ para\ reiniciar.\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Recebe\ a\ entrada\ do\ teclado\ para\ reiniciar\ o\ jogo.\r\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Aranha
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Representa\ um\ inimigo\ com\ comportamento\ de\ deslocamento\ vertical\ em\ loop\ por\ um\ caminho\ predefinido.\r\n
+comment1.params=posYMin\ posYMax
+comment1.target=Aranha(int,\ int)
+comment1.text=\r\n\ Construtor\ de\ objetos\ Aranha.\r\n
+comment2.params=
+comment2.target=void\ tocarSomAtaque()
+comment2.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ da\ classe\ Inimigo,\ implementando\ para\ a\ aranha\ seu\ pr\u00F3prio\ som\ de\ ataque.\r\n
+comment3.params=
+comment3.target=void\ atacarGuardia()
+comment3.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ da\ superclasse,\ implementando\ o\ ataque\ sem\ cooldown.\r\n
+comment4.params=
+comment4.target=void\ mover()
+comment4.text=\r\n\ Implementa\ o\ movimento\ da\ aranha\:\ sobe\ at\u00E9\ posYMin\ e\ desce\ at\u00E9\ posYMax,\ sempre\ checando\ colis\u00E3o\ com\ Barreira.\r\n
+numComments=5

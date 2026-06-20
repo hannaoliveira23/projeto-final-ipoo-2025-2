@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ZumbiFemea
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Representa\ um\ inimigo\ com\ comportamento\ de\ patrulha\ circular.\r\n
+comment1.params=
+comment1.target=ZumbiFemea()
+comment1.text=\r\n\ Construtor\ da\ ZumbiFemea.\r\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\r\n\ Implementa\ o\ movimento\ de\ patrulha\ circular.\r\n\ C\u00C1LCULO\ POLAR\:\ Usa\ cosseno\ (X)\ e\ seno\ (Y)\ para\ calcular\ a\ nova\ posi\u00E7\u00E3o.\r\n
+numComments=3

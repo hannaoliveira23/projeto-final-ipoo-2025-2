@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fase3
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Representa\ a\ terceira\ e\ \u00FAltima\ fase\ do\ jogo.\r\n
+comment1.params=
+comment1.target=Fase3()
+comment1.text=\r\n\ Construtor\ da\ fase\ 3.\r\n
+comment2.params=
+comment2.target=void\ criarInimigos()
+comment2.text=\r\n\ Sobrescrita\ de\ MundoJogo.\ Prepara\ os\ inimigos\ da\ fase.\r\n
+comment3.params=
+comment3.target=void\ criarGuardia()
+comment3.text=\r\n\ Sobrescrita\ de\ MundoJogo.\ Prepara\ a\ guardi\u00E3.\r\n
+comment4.params=
+comment4.target=void\ prepararCenario()
+comment4.text=\r\n\ Sobrescrita\ de\ MundoJogo.\ Prepara\ o\ cen\u00E1rio\ do\ jogo.\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Ciclo\ da\ fase\ 3.\r\n
+comment6.params=
+comment6.target=void\ desenharHUD()
+comment6.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ para\ adicionar\ informa\u00E7\u00F5es.\r\n
+comment7.params=
+comment7.target=void\ checarColetaCompleta()
+comment7.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ de\ spawn\ da\ chave\ no\ mundo.\ Est\u00E1\ vazio,\ pois,\ na\ fase\ 3,\ n\u00E3o\ h\u00E1\ chave.\r\n
+numComments=8

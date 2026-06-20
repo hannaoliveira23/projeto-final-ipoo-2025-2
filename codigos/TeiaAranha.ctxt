@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TeiaAranha
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ representa\ um\ obst\u00E1culo\ que\ diminui\ a\ velocidade\ da\ guardi\u00E3.\r\n
+comment1.params=
+comment1.target=TeiaAranha()
+comment1.text=\r\n\ Construtor\ de\ TeiaAranha.\r\n
+numComments=2

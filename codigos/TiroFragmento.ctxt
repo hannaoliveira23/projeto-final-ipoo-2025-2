@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TiroFragmento
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ representa\ o\ tiro\ do\ fragmento,\ realizado\ pela\ guardi\u00E3\ na\ \u00FAltima\ fase\ do\ jogo.\r\n
+comment1.params=
+comment1.target=TiroFragmento()
+comment1.text=\r\n\ Construtor\ do\ TiroFragmento.\r\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ de\ Projetil.\ Implementa\ a\ movimenta\u00E7\u00E3o\ do\ tiro.\r\n
+comment3.params=
+comment3.target=void\ emRemocaoNaBorda()
+comment3.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ de\ Projetil.\ Implementa\ o\ que\ acontece\ quando\ o\ tiro\ atinge\ a\ borda.\r\n
+comment4.params=
+comment4.target=void\ verificarColisao()
+comment4.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ de\ Projetil.\ Implementa\ a\ verifica\u00E7\u00E3o\ de\ colis\u00E3o\ com\ o\ inimigo.\r\n
+numComments=5

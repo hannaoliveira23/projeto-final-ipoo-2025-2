@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TelaInstrucoes
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Menu\ principal\ do\ jogo,\ contendo\ a\ hist\u00F3ria\ e\ as\ instru\u00E7\u00F5es.\r\n
+comment1.params=
+comment1.target=TelaInstrucoes()
+comment1.text=\r\n\ Construtor\ de\ TelaInstrucoes.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Sobrescrita\ do\ m\u00E9todo\ act()\ da\ superclasse\ Tela.\r\n
+numComments=3

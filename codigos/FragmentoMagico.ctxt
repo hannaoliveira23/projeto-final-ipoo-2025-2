@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FragmentoMagico
+comment0.text=\r\n\ Esta\ classe\ faz\ parte\ da\ aplica\u00E7\u00E3o\ "A\ Maldi\u00E7\u00E3o\ da\ VilaVelha".\r\n\ Ela\ representa\ um\ item\ colecion\u00E1vel\ necess\u00E1rio\ para\ o\ avan\u00E7o\ da\ fase.\r\n
+comment1.params=
+comment1.target=FragmentoMagico()
+comment1.text=\r\n\ Construtor\ da\ classe\ FragmentoMagico.\r\n
+comment2.params=
+comment2.target=void\ aplicarEfeito()
+comment2.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ da\ classe\ ItemColecionavel.\ Define\ o\ efeito\ espec\u00EDfico\ da\ coleta\ do\ fragmento.\r\n
+comment3.params=
+comment3.target=java.lang.String\ obterNomeSomColeta()
+comment3.text=\r\n\ Sobrescreve\ o\ m\u00E9todo\ da\ classe\ ItemColecionavel.\ Define\ o\ efeito\ espec\u00EDfico\ da\ coleta\ do\ fragmento.\r\n
+numComments=4
