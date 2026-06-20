@@ -15,11 +15,14 @@ Para manter o projeto organizado, os arquivos foram divididos nas seguintes past
 Como a estrutura de pastas original do Greenfoot foi modificada para fins de organização no repositório, para rodar o projeto localmente, é preciso seguir os passos abaixo:
 
 ### Pré-requisitos
-* Ter o [Greenfoot](https://www.greenfoot.org/download) instalado em sua máquina.
+* Ter o *Java (JDK)* instalado em sua máquina.
+* Ter o [Greenfoot](https://www.greenfoot.org/download) instalado.
 
 ### Passo a passo
-1.  **Clone o repositório.**
-2.  **Restaure a estrutura do Greenfoot:**
+1.  **Baixe o projeto:**
+   * Clique no botão verde **"Code"** no topo desta página do GitHub.
+   * Selecione a opção **"Download ZIP"** e extraia os arquivos na sua máquina.
+3.  **Restaure a estrutura do Greenfoot:**
     O Greenfoot espera encontrar as classes, arquivos de configuração do projeto e as pastas `images/` e `sounds/` todos compartilhando a mesma pasta raiz.
     * Entre na pasta `codigos/`.
     * Mova todos os arquivos contidos nela (`.java`, `.class`, `.ctxt`) diretamente para a pasta raiz do repositório (o mesmo nível onde ficam as pastas `images/`, `sounds/` e o arquivo `.greenfoot`).
